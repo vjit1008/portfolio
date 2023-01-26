@@ -1,0 +1,28 @@
+.mid-sec{
+    background-color:rgb(26, 188, 156);
+    height: 600px;
+    /* display: flex; */
+}
+
+/* person-image */
+
+/* web-page-name */
+
+.start-name{
+     color: white;
+     font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-weight: 700;
+    font-size: 56px;
+    text-align: center;
+    margin-top: 22%;
+
+}
+
+.mid-icon{
+    background-color: black;
+    color: wheat;
+    width: 200px;
+    
+}
+
+/* short-overView */
